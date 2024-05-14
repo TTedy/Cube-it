@@ -1,12 +1,14 @@
 # Cube-it
-AR video game made in ARcore. 
+AR leikur búinn til í ARcore.
 
-Hugmynd verkefsins er það að notandi getur opnað forrit í símanum sínum og fengið AR expieance að spila í geospacial umhverfi sem er ný tækni gefin út af google ARcore.
+Hugmyndin með verkefninu er að notandinn geti opnað forrit á símanum sínum og fengið AR-upplifun þar sem hann getur spilað í geospacial umhverfi. Þetta er ný tækni sem Google ARCore hefur gefið út.
 
-Verkefni.
+## Verkefni
 
-virkni ARcore - Komið
-ceritun og geospatial - Komið
-unity compile - Komið
-Leikur - Ókomið
-forrit - Ókomið
+- Virkni ARCore: Komin
+- Ceritun og geospatial: Komin
+- Unity compile: Komin
+- Leikur: Ókláraður
+- Forrit: Óklárað
+
+![Mynd af verkefninu]()

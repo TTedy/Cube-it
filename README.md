@@ -11,4 +11,4 @@ Hugmyndin með verkefninu er að notandinn geti opnað forrit á símanum sínum
 - Leikur: Ókláraður
 - Forrit: Óklárað
 
-![Mynd af verkefninu]()
+![Mynd af verkefninu](https://github.com/TTedy/Cube-it/blob/main/Screenshot%202024-05-14%20140129.png?raw=true)
